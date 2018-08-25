@@ -22,7 +22,8 @@ pod 'LocalPersistence'
 
 ## Author
 
-AlexandrePh, machadoalexandre30@gmail.com
+Alexandre Philippi, machadoalexandre30@gmail.com
+Ricardo Venieris, rvenieris@gmail.com
 
 ## License
 

@@ -14,10 +14,10 @@ enum StorageError: Error {
  LocalStorage is class that can persist any object that conforms to the Codable Protocol
  by Storing the instance recieved in json files stored in the documents Directory
  */
-class LocalStorage {
+class LocalPersistence {
     
     ///only instance of this class
-    static let instance = LocalStorage()
+    static let instance = LocalPersistence()
     
     private let documentDir = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true)[0] as NSString
     

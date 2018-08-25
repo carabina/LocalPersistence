@@ -1,0 +1,6 @@
+framework module Pods_LocalPersistence_Tests {
+  umbrella header "Pods-LocalPersistence_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

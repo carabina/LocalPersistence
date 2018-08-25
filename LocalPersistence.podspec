@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LocalPersistence'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of LocalPersistence.'
+  s.summary          = 'local sotrage via json'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,6 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'AlexandrePh' => 'machadoalexandre30@gmail.com' }
+  s.swift_version = '4.0'
   s.source           = { :git => 'https://github.com/AlexandrePh/LocalPersistence.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

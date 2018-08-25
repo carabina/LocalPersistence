@@ -40,11 +40,11 @@
 		607FACE51AFB9204008FA782 /* LocalPersistence_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocalPersistence_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		9279B560B4F51F2EC5BECAD4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		9279B560B4F51F2EC5BECAD4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		99C466C7D41C454B19710B14 /* Pods_LocalPersistence_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LocalPersistence_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6D2C8AEB7AF0791C76D3D7D /* Pods_LocalPersistence_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LocalPersistence_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ABEDD9D6BC67A84EB087E89A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		D493BC74D272A0962DE6B259 /* LocalPersistence.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LocalPersistence.podspec; path = ../LocalPersistence.podspec; sourceTree = "<group>"; };
+		ABEDD9D6BC67A84EB087E89A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D493BC74D272A0962DE6B259 /* LocalPersistence.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LocalPersistence.podspec; path = ../LocalPersistence.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		DA0F47A71A291B67C0CF9038 /* Pods-LocalPersistence_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LocalPersistence_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LocalPersistence_Example/Pods-LocalPersistence_Example.release.xcconfig"; sourceTree = "<group>"; };
 		EC0CB9CBB13FB2D8A47ABC3E /* Pods-LocalPersistence_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LocalPersistence_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LocalPersistence_Example/Pods-LocalPersistence_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

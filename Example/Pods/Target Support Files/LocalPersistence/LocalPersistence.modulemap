@@ -1,0 +1,6 @@
+framework module LocalPersistence {
+  umbrella header "LocalPersistence-umbrella.h"
+
+  export *
+  module * { export * }
+}

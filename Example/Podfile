@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LocalPersistence_Example' do
+  pod 'LocalPersistence', :path => '../'
+
+  target 'LocalPersistence_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
